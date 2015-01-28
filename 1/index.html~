@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<title>
+Introduction
+</title>
+  <body >
+<p><h4>Before starting with the examples let me declare configuration i am using<h4></p>
+<p><ul>
+<li>
+OS: Ubuntu 14.04 LTS</li>
+<li>Node.js installed.</li>
+<li>Text Editor: emacs and brackets</li>
+</ul></p>
+<p>
+Look at the file server.js.</p>
+
+<img src="screenshot1.png" alt="screenshot1" style="width=300px;height 400px">
+
+<p>
+Here i have created own server running on port 8888! This code will accept the request display "Welcome to the world of Node.JS" On browser screen. URL would be <a url="http://localhost:8888/">http://localhost:8888/</a>
+
+</p>
+
+  </body>
+
+</html>
